@@ -1,0 +1,3 @@
+rootProject.name = 'windnative'
+
+include ':app'
